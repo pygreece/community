@@ -17,3 +17,7 @@ One of our main project is the translation of the Python docs to the Greek langu
 ## Join the PyGreece Discord Server
 
 The PyGreece discord server aims to connect all the members of the greek python community in one place. You can join the server by following this link: https://discord.gg/gWcXmDw8Yj
+
+## PyGreece Code of Conduct
+
+Please read carefully our code of conduct: [GR](https://github.com/pygreece/community/blob/update-readme/code-of-conduct/greek.md) / [EN](https://github.com/pygreece/community/blob/update-readme/code-of-conduct/english.md)
