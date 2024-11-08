@@ -44,3 +44,10 @@ Community members who are asked to stop any inappropriate behavior are expected 
 If a participant engages in behavior that violates this Code of Conduct, the PyGreece organizing team may take such action as it deems appropriate, including warning the offender or banning the offender (for life or for a specified period of time) from the community and community events.
 
 **Thank you for helping to make PyGreece a welcoming and friendly community for everyone.**
+
+## References
+
+The PyGreece Code of Conduct document is inspired by:
+
+- [The Python Software Foundation Code of Conduct](https://policies.python.org/python.org/code-of-conduct)
+- [The EuroPython Society Code of Conduct](https://www.europython-society.org/coc/)
