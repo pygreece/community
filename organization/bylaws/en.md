@@ -52,12 +52,12 @@ While the administrators are focused on running the legal entity of PyGreece AMK
 
 The current serving board of PyGreece AMKE for the term 2024-2025 is:
 
-1. Zisopoulos George, Administrator.
-2. Kyrillos Panagiotis, Member, managing PyCon Greece.
-3. Margaritis George, Member, managing PyGreece Community Outreach.
-4. Nikolaou Lysandros Nikolaou, Administrator.
-5. Petkos Theofanis, Administrator.
-6. Skias Panagiotis, managing PyGreece Community Projects.
+- Zisopoulos George, Administrator.
+- Kyrillos Panagiotis, Member, managing PyCon Greece.
+- Margaritis George, Member, managing PyGreece Community Outreach.
+- Nikolaou Lysandros Nikolaou, Administrator.
+- Petkos Theofanis, Administrator.
+- Skias Panagiotis, managing PyGreece Community Projects.
 
 ### Board Lifecycle
 
