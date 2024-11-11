@@ -61,7 +61,7 @@ The current serving board of PyGreece AMKE for the term 2024-2025 is:
 
 ### Board Lifecycle
 
-Each board serves an annual term. In order to elect a new board a General Assembly needs to be hosted. The General Assembly needs to be called at least 15 days before the preferred date. At the same point, 15 days before the GA, the board needs to select an independent election committee & to find all the next board of directors candidates.
+Each board serves an annual term. In order to elect a new board a General Assembly (GA) needs to be hosted. The General Assembly needs to be called at least 15 days before the preferred date. At the same point, 15 days before the GA, the board needs to select an independent election committee & to find all the next board of directors candidates.
 
 ### Inactivity of Directors
 
