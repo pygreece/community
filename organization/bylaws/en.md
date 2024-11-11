@@ -69,7 +69,7 @@ In case a board member is inactive (has not attended 4 board meetings in a row) 
 
 ### Re-Election Limit
 
-A member can serve a specific role (e.g Administrator or Responsible for PyCon Greece) two times in row maximum. A member can be elected as board member six times in row maximum. The limits are reset in case the member takes a break for a term from the role and/or the board membership.
+A member can serve a specific role (e.g Administrator or Responsible for PyCon Greece) two times in a row maximum. A member can be elected as a board member for a maximum of six times. The limits are reset in case the member takes a break for a term from the role and/or the board membership.
 
 ### Board Elections
 
