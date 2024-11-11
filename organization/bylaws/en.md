@@ -22,7 +22,6 @@ The document is analyzing the structure of the PyGreece AMKE, as the legal entit
 
 ## PyGreece AMKE
 
-Here is the detailed organizational structure of PyGreece AMKE:
 
 ### Board of Directors
 
