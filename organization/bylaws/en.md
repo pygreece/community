@@ -73,7 +73,7 @@ A member can serve a specific role (e.g Administrator or Responsible for PyCon G
 
 ### Board Elections
 
-Voting rights have only confirmed members of the community. The board is responsible to communicate a registration form through the PyGreece Discord Server 2 weeks before the elections.
+Only registered members of the community have voting rights. The board is responsible to communicate a registration form through the PyGreece Discord Server 2 weeks before the elections.
 
 The election committee, selected by the previous board, has no right to participate in the elections. The committee:
 
