@@ -78,7 +78,7 @@ Only registered members of the community have voting rights. The board is respon
 The election committee, selected by the previous board, has no right to participate in the elections. The committee:
 
 - Hosts the vote to confirm that the financial status of the organization is acceptable by the GA & to end the previous board term.
-- Hosts the vote that decides the format of the Directors elections.
+- Decides on the voting process that outlines the format of the Directors elections.
 - Decides beforehand the process of resolving ties.
 - Hosts the vote for the next board of directors.
 
