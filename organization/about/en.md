@@ -12,4 +12,4 @@ PyGreece Community, is represented by PyGreece AMKE, a non-profit organization, 
 - **Address**: Pl. Ippodameias 8, Piraeus, Greece
 - **Postal Code**: 18531
 - **Email**: pygreece@mail.com
-<!-- TODO: * **VAT ID**: -->
+- **VAT ID**: EL802654251
