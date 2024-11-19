@@ -1,4 +1,4 @@
-# PyGreece Community Organization & Bylaws
+# PyGreece Community Organization & Principals
 
 ## Contents
 
@@ -16,7 +16,7 @@
 
 ## Summary
 
-The document is analyzing the structure of the PyGreece AMKE, as the legal entity of the Community, and the PyGreece Community bylaws. A nice schema, summarizing the PyGreece AMKE structure and the main activities done by the Community is the following:
+The document is analyzing the structure of the PyGreece AMKE, as the legal entity of the Community, and the PyGreece Community principals. A nice schema, summarizing the PyGreece AMKE structure and the main activities done by the Community is the following:
 
 ![PyGreece Organizational Structure](../../assets/img/pygreece_organizational_structure.jpg)
 
@@ -84,9 +84,9 @@ The election committee, selected by the previous board, has no right to particip
 
 Post election, the newly elected board decides the roles as they are described in the board structure section.
 
-## PyGreece Community ByLaws
+## PyGreece Community Principals
 
-Below you can find the ByLaws of PyGreece Community, the Greek Python Community managed by the PyGreece AMKE. The rules of PyGreece AMKE entity are different and can be found here (TODO: Link to the doc).
+Below you can find the main principals of PyGreece Community, the Greek Python Community managed by the PyGreece AMKE. The byLaws of PyGreece AMKE entity are different and can be found [here](https://publicity.businessportal.gr/company/180308907000).
 
 1. The name of the community is "PyGreece Community", abbreviated "PyGreece".
 
@@ -96,7 +96,7 @@ Below you can find the ByLaws of PyGreece Community, the Greek Python Community 
 
 4. The organization detals of PyGreece AMKE are [here](../about/en.md#organization-details)
 
-5. Membership is open to individuals who wish to actively engage in implementing the PyGreece Community mission.
+5. Membership is open and free to individuals who wish to actively engage in implementing the PyGreece Community mission.
 
 6. To become a member, the applicant must submit an application to the board of the PyGreece AMKE. The board accepts or declines the application by a simple majority vote at its next meeting. The board may delegate the right to accept membership application to one or more individual board members, but denial of membership must always be done by a vote of the board.
 
