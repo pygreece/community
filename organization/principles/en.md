@@ -176,9 +176,3 @@ found [here](https://publicity.businessportal.gr/company/180308907000).
 
 - In case of dissolution, the assets of PyGreece AMKE go to an NGO voted by a General
   Assembly of PyGreece Community meeting.
-
-- Any motion to amend the bylaws of the society has to be submitted with the actual
-  wording of the proposed change. The General Assembly may modify the proposal in detail
-  before passing it, as long as the general intent of the motion is unchanged. A motion to
-  change the bylaws must be supported by at least two thirds of the present voting
-  representatives in order to pass.
