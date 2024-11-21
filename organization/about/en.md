@@ -10,7 +10,7 @@ to support this.
 
 ## Organization Details
 
-PyGreece community, is represented by PyGreece AMKE, a non-profit organization, led only
+The PyGreece community, is represented by PyGreece AMKE, a non-profit organization, led only
 by volunteers. The organization details are:
 
 - **Name**: PyGreece A.M.K.E.
