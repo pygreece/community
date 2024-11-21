@@ -70,3 +70,10 @@ community and community events.
 
 **Thank you for helping to make PyGreece a welcoming and friendly community for
 everyone.**
+
+## References
+
+The PyGreece Code of Conduct document is inspired by:
+
+- [The Python Software Foundation Code of Conduct](https://policies.python.org/python.org/code-of-conduct)
+- [The EuroPython Society Code of Conduct](https://www.europython-society.org/coc/)
