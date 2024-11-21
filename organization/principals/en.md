@@ -1,4 +1,4 @@
-# PyGreece Community Organization & Principals
+# PyGreece Community Organization & Principles
 
 ## Contents
 
@@ -17,7 +17,7 @@
 ## Summary
 
 The document is analyzing the structure of the PyGreece AMKE, as the legal entity of the
-community, and the PyGreece community principals. A nice schema, summarizing the PyGreece
+community, and the PyGreece community principles. A nice schema, summarizing the PyGreece
 AMKE structure and the main activities done by the community is the following:
 
 ![PyGreece Organizational Structure](../../assets/img/pygreece_organizational_structure.jpg)
@@ -113,9 +113,9 @@ elections. The committee:
 Post election, the newly elected board decides the roles as they are described in the
 board structure section.
 
-## PyGreece Community Principals
+## PyGreece Community Principles
 
-Below you can find the main principals of PyGreece community, the Greek Python community
+Below you can find the main principles of PyGreece community, the Greek Python community
 managed by the PyGreece AMKE. The byLaws of PyGreece AMKE entity are different and can be
 found [here](https://publicity.businessportal.gr/company/180308907000).
 
