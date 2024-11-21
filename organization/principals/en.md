@@ -16,19 +16,18 @@
 
 ## Summary
 
-The document is analyzing the structure of the PyGreece AMKE, as the legal entity of the Community, and the PyGreece Community principals. A nice schema, summarizing the PyGreece AMKE structure and the main activities done by the Community is the following:
+The document is analyzing the structure of the PyGreece AMKE, as the legal entity of the community, and the PyGreece community principals. A nice schema, summarizing the PyGreece AMKE structure and the main activities done by the community is the following:
 
 ![PyGreece Organizational Structure](../../assets/img/pygreece_organizational_structure.jpg)
 
 ## PyGreece AMKE
-
 
 ### Board of Directors
 
 The board of directors is the main body of PyGreece AMKE. It's responsible for any strategic decision regarding the present & the future of the organization. Furthermore:
 
 - Decides the budget, venue & dates of PyCon Greece.
-- Decides the budget of all Python Community projects led by PyGreece Community members.
+- Decides the budget of all Python community projects led by PyGreece community members.
 
 ### Directors
 
@@ -39,10 +38,10 @@ There are two types of directors inside the board:
 
 ### Member Roles
 
-While the administrators are focused on running the legal entity of PyGreece AMKE, the members have specific roles, serving all actions running by the PyGreece Community. Those roles are:
+While the administrators are focused on running the legal entity of PyGreece AMKE, the members have specific roles, serving all actions running by the PyGreece community. Those roles are:
 
-- _PyGreece Community Projects_: This role is dedicated to the Projects run by PyGreece Community. The director with this role is responsible to find, identify, raise an idea, opportunity or need, initiate implementation, maintain, take forward every PyGreece Community Project, while making sure that more and more contributors will come on board, and we create an impact.
-- _Community Outreach_: This role is dedicated to the PyGreece Community outreach and the online community server. The director is the main contact for community events that PyGreece Community attends and is responsible for strategic decision making regarding the discord server.
+- _PyGreece community projects_: This role is dedicated to the Projects run by PyGreece community. The director with this role is responsible to find, identify, raise an idea, opportunity or need, initiate implementation, maintain, take forward every PyGreece community project, while making sure that more and more contributors will come on board, and we create an impact.
+- _Community outreach_: This role is dedicated to the PyGreece community outreach and the online community server. The director is the main contact for community events that PyGreece community attends and is responsible for strategic decision making regarding the discord server.
 - _PyCon Greece_: This is role is monitoring the progress of PyCon Greece Conference. Is in contact with the board & the conference workgroups. More detailed:
   - Communicates with the board all important updates.
   - Selects the lead of each team.
@@ -54,10 +53,10 @@ The current serving board of PyGreece AMKE for the term 2024-2025 is:
 
 - Zisopoulos George, Administrator.
 - Kyrillos Panagiotis, Member, managing PyCon Greece.
-- Margaritis George, Member, managing PyGreece Community Outreach.
+- Margaritis George, Member, managing PyGreece community outreach.
 - Nikolaou Lysandros Nikolaou, Administrator.
 - Petkos Theofanis, Administrator.
-- Skias Panagiotis, managing PyGreece Community Projects.
+- Skias Panagiotis, managing PyGreece community projects.
 
 ### Board Lifecycle
 
@@ -65,7 +64,7 @@ Each board serves an annual term. In order to elect a new board a General Assemb
 
 ### Inactivity of Directors
 
-In case a board member is inactive (has not attended 4 board meetings in a row) the board has the right to vote for their replacement. They are able to select another member as long as this member is a confirmed PyGreece Community member.
+In case a board member is inactive (has not attended 4 board meetings in a row) the board has the right to vote for their replacement. They are able to select another member as long as this member is a confirmed PyGreece community member.
 
 ### Re-Election Limit
 
@@ -86,7 +85,7 @@ Post election, the newly elected board decides the roles as they are described i
 
 ## PyGreece Community Principals
 
-Below you can find the main principals of PyGreece Community, the Greek Python Community managed by the PyGreece AMKE. The byLaws of PyGreece AMKE entity are different and can be found [here](https://publicity.businessportal.gr/company/180308907000).
+Below you can find the main principals of PyGreece community, the Greek Python community managed by the PyGreece AMKE. The byLaws of PyGreece AMKE entity are different and can be found [here](https://publicity.businessportal.gr/company/180308907000).
 
 1. The name of the community is "PyGreece Community", abbreviated "PyGreece".
 
