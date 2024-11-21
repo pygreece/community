@@ -119,69 +119,68 @@ Below you can find the main principles of PyGreece community, the Greek Python c
 managed by the PyGreece AMKE. The byLaws of PyGreece AMKE entity are different and can be
 found [here](https://publicity.businessportal.gr/company/180308907000).
 
-1. The name of the community is "PyGreece Community", abbreviated "PyGreece".
+- The name of the community is "PyGreece Community", abbreviated "PyGreece".
 
-1. The name of the legal entity responsible for "PyGreece Community" is "PyGreece AMKE".
+- The name of the legal entity responsible for "PyGreece Community" is "PyGreece AMKE".
 
-1. PyGreece AMKE is a civil society actor (Civil Non-Profit Company) created by Greek
-   Python Community members to serve the mission of PyGreece Community. The mission of
-   PyGreece AMKE can be found [here](../about/en.md#mission).
+- PyGreece AMKE is a civil society actor (Civil Non-Profit Company) created by Greek
+  Python Community members to serve the mission of PyGreece Community. The mission of
+  PyGreece AMKE can be found [here](../about/en.md#mission).
 
-1. The organization detals of PyGreece AMKE are
-   [here](../about/en.md#organization-details)
+- The organization detals of PyGreece AMKE are [here](../about/en.md#organization-details)
 
-1. Membership is open and free to individuals who wish to actively engage in implementing
-   the PyGreece Community mission.
+- Membership is open and free to individuals who wish to actively engage in implementing
+  the PyGreece Community mission.
 
-1. To become a member, the applicant must submit an application to the board of the
-   PyGreece AMKE. The board accepts or declines the application by a simple majority vote
-   at its next meeting. The board may delegate the right to accept membership application
-   to one or more individual board members, but denial of membership must always be done
-   by a vote of the board.
+- To become a member, the applicant must submit an application to the board of the
+  PyGreece AMKE. The board accepts or declines the application by a simple majority vote
+  at its next meeting. The board may delegate the right to accept membership application
+  to one or more individual board members, but denial of membership must always be done by
+  a vote of the board.
 
-1. The formal decision making bodies of PyGreece Community are:
+- The formal decision making bodies of PyGreece Community are:
 
-   - The General Assembly.
-   - The Board of Directors.
+  - The General Assembly.
+  - The Board of Directors.
 
-1. The General Assembly is the highest decision making body of PyGreece Community. It
-   meets in a regular annual meeting and in extra sessions when called by a PyGreece
-   Community member. The General Assembly runs independent from the PyGreece AMKE, apart
-   from selecting the next board.
+- The General Assembly is the highest decision making body of PyGreece Community. It meets
+  in a regular annual meeting and in extra sessions when called by a PyGreece Community
+  member. The General Assembly runs independent from the PyGreece AMKE, apart from
+  selecting the next board.
 
-1. All decisions of the General Assembly are made by simple majority among the voting
-   members. Members may vote by proxy or submit written votes in specific issues to the
-   board. All written votes must be declared by the administrators of PyGreece AMKE at the
-   beginning of the meeting. If there is a draw between two proposals a second vote shall
-   be made and so on.
+- All decisions of the General Assembly are made by simple majority among the voting
+  members. Members may vote by proxy or submit written votes in specific issues to the
+  board. All written votes must be declared by the administrators of PyGreece AMKE at the
+  beginning of the meeting. If there is a draw between two proposals a second vote shall
+  be made and so on.
 
-1. An extra meeting of the General Assembly must be held within 28 days of the request.
-   Members should be notified at least 5 days prior to the date of the GA (via discord
-   and/or email).
+- An extra meeting of the General Assembly must be held within 28 days of the request.
+  Members should be notified at least 5 days prior to the date of the GA (via discord
+  and/or email).
 
-1. The board of directors is responsible to select an independent host & the format of the
-   GA with the agreement of the GA requester.
+- The board of directors is responsible to select an independent host & the format of the
+  GA with the agreement of the GA requester.
 
-1. The board handles all day-to-day business of the PyGreece AMKE. It is allowed to enter
-   contracts for PyGreece AMKE and handle any issues of the PyGreece Community that have
-   not been otherwise regulated in the bylaws or by the General Assembly.
+- The board handles all day-to-day business of the PyGreece AMKE. It is allowed to enter
+  contracts for PyGreece AMKE and handle any issues of the PyGreece Community that have
+  not been otherwise regulated in the bylaws or by the General Assembly.
 
-1. The administrators of the board have the authority to sign for PyGreece AMKE.
+- The administrators of the board have the authority to sign for PyGreece AMKE.
 
-1. A member may at any time terminate the membership by informing the board in writing.
+- A member may at any time terminate the membership by informing the board in writing.
 
-1. A member that acts against the interests of PyGreece Community or PyGreece AMKE may be
-   expelled by the full majority decision of the board of directors. In case this member
-   is a director, the director considered to be expelled is excluded from the vote and the
-   decision needs the full majority of the rest of the board to pass. A member may be
-   expelled from the General Assembly of PyGreece Community too, at an Assembly meeting by
-   a regular vote with simple majority.
+- A member that acts against the interests of PyGreece Community or PyGreece AMKE may be
+  expelled by the full majority decision of the board of directors. In case this member is
+  a director, the director considered to be expelled is excluded from the vote and the
+  decision needs the full majority of the rest of the board to pass. A member may be
+  expelled from the General Assembly of PyGreece Community too, at an Assembly meeting by
+  a regular vote with simple majority.
 
-1. In case of dissolution, the assets of PyGreece AMKE go to an NGO voted by a General
-   Assembly of PyGreece Community meeting.
+- In case of dissolution, the assets of PyGreece AMKE go to an NGO voted by a General
+  Assembly of PyGreece Community meeting.
 
-1. Any motion to amend the bylaws of the society has to be submitted with the actual
-   wording of the proposed change. The General Assembly may modify the proposal in detail
-   before passing it, as long as the general intent of the motion is unchanged. A motion
-   to change the bylaws must be supported by at least two thirds of the present voting
-   representatives in order to pass.
+- Any motion to amend the bylaws of the society has to be submitted with the actual
+  wording of the proposed change. The General Assembly may modify the proposal in detail
+  before passing it, as long as the general intent of the motion is unchanged. A motion to
+  change the bylaws must be supported by at least two thirds of the present voting
+  representatives in order to pass.
