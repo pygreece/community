@@ -3,7 +3,7 @@
 ## Mission
 
 PyGreece is a Python community based in Greece. It was created in Prague, in August 2023
-by Greek Python community members. The purpose of the PyGreece community is to support the
+by members of the Greek Python community. The purpose of the PyGreece community is to support the
 diversity & inclusion in the Greek Python community, to further the use of the programming
 language Python in Greece and organize events centered around the programming language
 Python to support this.
