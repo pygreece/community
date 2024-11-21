@@ -132,11 +132,9 @@ found [here](https://publicity.businessportal.gr/company/180308907000).
 - Membership is open and free to individuals who wish to actively engage in implementing
   the PyGreece Community mission.
 
-- To become a member, the applicant must submit an application to the board of the
-  PyGreece AMKE. The board accepts or declines the application by a simple majority vote
-  at its next meeting. The board may delegate the right to accept membership application
-  to one or more individual board members, but denial of membership must always be done by
-  a vote of the board.
+- To become a member, the applicant must send an email to the board of the PyGreece AMKE.
+
+<!-- TODO: Provide a form for member registration -->
 
 - The formal decision making bodies of PyGreece Community are:
 
