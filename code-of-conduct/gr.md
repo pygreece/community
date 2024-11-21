@@ -79,7 +79,7 @@
 
 ## Σχετικοί Σύνδεσμοι
 
-Ο Κώδικας Δεοντολογίας του PyGreece έχει εμπνευστεί από τις κάτωθι πηγές:
+Ο Κώδικας Δεοντολογίας του PyGreece έχει εμπνευστεί από τις παρακάτω πηγές:
 
 - [The Python Software Foundation Code of Conduct](https://policies.python.org/python.org/code-of-conduct)
 - [The EuroPython Society Code of Conduct](https://www.europython-society.org/coc/)
