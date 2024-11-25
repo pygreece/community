@@ -76,3 +76,10 @@
 
 **Σας ευχαριστούμε που βοηθάτε να γίνει το PyGreece μια φιλόξενη και φιλική κοινότητα για
 όλους.**
+
+## Σχετικοί Σύνδεσμοι
+
+Ο Κώδικας Δεοντολογίας του PyGreece έχει εμπνευστεί από τις παρακάτω πηγές:
+
+- [The Python Software Foundation Code of Conduct](https://policies.python.org/python.org/code-of-conduct)
+- [The EuroPython Society Code of Conduct](https://www.europython-society.org/coc/)
