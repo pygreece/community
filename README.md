@@ -28,6 +28,5 @@ https://discord.gg/gWcXmDw8Yj
 
 ## PyGreece Code of Conduct
 
-Please read carefully our code of conduct:
-[GR](code-of-conduct/greek.md) /
+Please read carefully our code of conduct: [GR](code-of-conduct/greek.md) /
 [EN](code-of-conduct/english.md)
