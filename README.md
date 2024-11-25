@@ -29,5 +29,5 @@ https://discord.gg/gWcXmDw8Yj
 ## PyGreece Code of Conduct
 
 Please read carefully our code of conduct:
-[GR](https://github.com/pygreece/community/blob/update-readme/code-of-conduct/greek.md) /
-[EN](https://github.com/pygreece/community/blob/update-readme/code-of-conduct/english.md)
+[GR](code-of-conduct/greek.md) /
+[EN](code-of-conduct/english.md)
