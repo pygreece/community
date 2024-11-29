@@ -119,30 +119,35 @@ Below you can find the main principles of PyGreece community, the Greek Python c
 managed by the PyGreece AMKE. The byLaws of PyGreece AMKE entity are different and can be
 found [here](https://publicity.businessportal.gr/company/180308907000).
 
+> [!IMPORTANT] The board of PyGreece AMKE is currently working on the legal format of the
+> community principles mentioned below. Therefore, while they are considered a very
+> important part of the way that PyGreece community operates, they don't have any form
+> legal force yet.
+
 - The name of the community is "PyGreece Community", abbreviated "PyGreece".
 
 - The name of the legal entity responsible for "PyGreece Community" is "PyGreece AMKE".
 
 - PyGreece AMKE is a civil society actor (Civil Non-Profit Company) created by Greek
-  Python Community members to serve the mission of PyGreece Community. The mission of
+  Python community members to serve the mission of PyGreece community. The mission of
   PyGreece AMKE can be found [here](../about/en.md#mission).
 
 - The organization detals of PyGreece AMKE are [here](../about/en.md#organization-details)
 
 - Membership is open and free to individuals who wish to actively engage in implementing
-  the PyGreece Community mission.
+  the PyGreece community mission.
 
 - To become a member, the applicant must send an email to the board of the PyGreece AMKE.
 
 <!-- TODO: Provide a form for member registration -->
 
-- The formal decision making bodies of PyGreece Community are:
+- The formal decision making bodies of PyGreece community are:
 
   - The General Assembly.
   - The Board of Directors.
 
-- The General Assembly is the highest decision making body of PyGreece Community. It meets
-  in a regular annual meeting and in extra sessions when called by a PyGreece Community
+- The General Assembly is the highest decision making body of PyGreece community. It meets
+  in a regular annual meeting and in extra sessions when called by a PyGreece community
   member. The General Assembly runs independent from the PyGreece AMKE, apart from
   selecting the next board.
 
@@ -160,19 +165,19 @@ found [here](https://publicity.businessportal.gr/company/180308907000).
   GA with the agreement of the GA requester.
 
 - The board handles all day-to-day business of the PyGreece AMKE. It is allowed to enter
-  contracts for PyGreece AMKE and handle any issues of the PyGreece Community that have
+  contracts for PyGreece AMKE and handle any issues of the PyGreece community that have
   not been otherwise regulated in the bylaws or by the General Assembly.
 
 - The administrators of the board have the authority to sign for PyGreece AMKE.
 
 - A member may at any time terminate the membership by informing the board in writing.
 
-- A member that acts against the interests of PyGreece Community or PyGreece AMKE may be
+- A member that acts against the interests of PyGreece community or PyGreece AMKE may be
   expelled by the full majority decision of the board of directors. In case this member is
   a director, the director considered to be expelled is excluded from the vote and the
   decision needs the full majority of the rest of the board to pass. A member may be
-  expelled from the General Assembly of PyGreece Community too, at an Assembly meeting by
+  expelled from the General Assembly of PyGreece community too, at an Assembly meeting by
   a regular vote with simple majority.
 
 - In case of dissolution, the assets of PyGreece AMKE go to an NGO voted by a General
-  Assembly of PyGreece Community meeting.
+  Assembly of PyGreece community meeting.
