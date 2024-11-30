@@ -122,7 +122,7 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
 
 > [!IMPORTANT] The board of PyGreece AMKE is currently working on the legal format of the
 > community principles mentioned below. Therefore, while they are considered a very
-> important part of the way that PyGreece community operates, they don't have any form
+> important part of the way that PyGreece community operates, they don't have any
 > legal force yet.
 
 - The name of the community is "PyGreece Community", abbreviated "PyGreece".
