@@ -181,5 +181,5 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
   expelled from the General Assembly of the PyGreece community too, at an assembly meeting
   by a regular vote with simple majority.
 
-- In the case of dissolution, the assets of PyGreece AMKE go to an NGO voted by the General
-  Assembly of the PyGreece community.
+- In the case of dissolution, the assets of PyGreece AMKE go to an NGO voted by the
+  General Assembly of the PyGreece community.
