@@ -110,7 +110,7 @@ elections. The committee:
 - Decides the process of resolving ties beforehand.
 - Hosts the vote for the next board of directors.
 
-Post election, the newly elected board decides the roles as they are described in the
+After the election the newly elected board decides the roles as they are described in the
 board structure section.
 
 ## PyGreece Community Principles
