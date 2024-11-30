@@ -86,7 +86,6 @@
 
 ## Άδεια Χρήσης
 
-Ο Κώδικας Δεοντολογίας του PyGreece διανέμεται υπό από τους όρους της άδειας
-χρήσης
+Ο Κώδικας Δεοντολογίας του PyGreece διανέμεται υπό από τους όρους της άδειας χρήσης
 [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 [![Creative Commons License](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
