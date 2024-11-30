@@ -1,4 +1,4 @@
-# PyGreece Community Organization & Principles
+# Organization & Principles
 
 ## Contents
 
@@ -12,7 +12,7 @@
   - [Inactivity of Directors](#inactivity-of-directors)
   - [Re-Election Limit](#re-election-limit)
   - [Board Elections](#board-elections)
-- [PyGreece Community ByLaws](#pygreece-community-bylaws)
+- [PyGreece Community Principles](#pygreece-community-principles)
 
 ## Summary
 
@@ -20,7 +20,7 @@ This document is analyzing the structure of PyGreece AMKE, the legal entity of t
 community, and the PyGreece community principles. A nice schema, summarizing the PyGreece
 AMKE structure and the main activities done by the community is the following:
 
-![PyGreece Organizational Structure](../../assets/img/pygreece_organizational_structure.jpg)
+![PyGreece Organizational Structure](../assets/img/pygreece_organizational_structure.jpg)
 
 ## PyGreece AMKE
 
@@ -131,10 +131,10 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
 
 - PyGreece AMKE is a civil society actor (Civil Non-Profit Company) created by Greek
   Python community members to serve the mission of the PyGreece community. The mission of
-  PyGreece AMKE can be found [on our mission document](../about/en.md#mission).
+  PyGreece AMKE can be found [on our mission document](about.md#mission).
 
 - The organization detals of PyGreece AMKE are
-  [on our mission document](../about/en.md#organization-details)
+  [on our mission document](about.md#organization-details).
 
 - Membership is open and free to individuals who wish to actively engage in implementing
   the PyGreece community mission.

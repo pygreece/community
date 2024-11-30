@@ -1,0 +1,66 @@
+site_name: pygreece
+repo_url: https://github.com/pygreece/community
+copyright: Copyright &copy; 2024 - PyGreece
+
+theme:
+  name: material
+  features:
+    - header.autohide
+  palette:
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+nav:
+  - PyGreece Community Knowledge Base: index.md
+  - Σχετικά με το PyGreece: about.md
+  - Κώδικας Δεοντολογίας: code-of-conduct.md
+  - Οργανωτική Δομή & Αρχές: principles.md
+
+plugins:
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          name: English
+          build: true
+          nav_translations:
+            PyGreece Community Knowledge Base: PyGreece Community Knowledge Base
+            Σχετικά με το PyGreece: About PyGreece
+            Κώδικας Δεοντολογίας: Code of Conduct
+            Οργανωτική Δομή & Αρχές: Organization & Principles
+        - locale: el
+          name: Ελληνικά
+          build: true
+          default: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - search
+
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/pygreece/community
+    - icon: material/license
+      link: https://creativecommons.org/licenses/by-sa/4.0/

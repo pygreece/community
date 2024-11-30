@@ -1,4 +1,4 @@
-# PyGreece Code of Conduct
+# Code of Conduct
 
 PyGreece is a community of developers that aims to network and collaborate with all Python
 developer communities in Greece.
