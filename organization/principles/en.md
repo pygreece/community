@@ -117,7 +117,7 @@ board structure section.
 ## PyGreece Community Principles
 
 Below you can find the main principles of the PyGreece community, the Greek Python community
-managed by the PyGreece AMKE. The byLaws of PyGreece AMKE entity are different and can be
+managed by PyGreece AMKE. The bylaws of the PyGreece AMKE entity are different and can be
 found [here](https://publicity.businessportal.gr/company/180308907000).
 
 > [!IMPORTANT] The board of PyGreece AMKE is currently working on the legal format of the
