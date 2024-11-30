@@ -182,4 +182,4 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
   by a regular vote with simple majority.
 
 - In the case of dissolution, the assets of PyGreece AMKE go to an NGO voted by the General
-  Assembly of PyGreece community meeting.
+  Assembly of the PyGreece community.
