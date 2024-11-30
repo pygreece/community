@@ -130,7 +130,7 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
 - The name of the legal entity responsible for "PyGreece Community" is "PyGreece AMKE".
 
 - PyGreece AMKE is a civil society actor (Civil Non-Profit Company) created by Greek
-  Python community members to serve the mission of PyGreece community. The mission of
+  Python community members to serve the mission of the PyGreece community. The mission of
   PyGreece AMKE can be found [here](../about/en.md#mission).
 
 - The organization detals of PyGreece AMKE are [here](../about/en.md#organization-details)
