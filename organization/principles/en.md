@@ -58,11 +58,11 @@ roles are:
   community outreach and the online community server. They are the main contact for
   community events that the PyGreece community attends and they are responsible for
   strategic decision making regarding the discord server.
-- _PyCon Greece_: This is role is monitoring the progress of PyCon Greece Conference. Is
-  in contact with the board & the conference workgroups. More detailed:
-  - Communicates with the board all important updates.
-  - Selects the lead of each team.
-  - Makes sure that the timeline of the conference will be met.
+- _PyCon Greece_: Directors with this role are monitoring the progress of the PyCon Greece conference. They are
+  in contact with the board & the conference workgroups. In more details, they:
+  - Communicate all important updates with the board.
+  - Select the lead of each team.
+  - Make sure that the timeline of the conference will be met.
 
 ### Current Board of PyGreece AMKE
 
