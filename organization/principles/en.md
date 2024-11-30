@@ -97,8 +97,8 @@ and/or the board membership.
 
 ### Board Elections
 
-Only registered members of the community have voting rights. The board is responsible to
-communicate a registration form through the PyGreece Discord Server 2 weeks before the
+Only registered members of the community have voting rights. The board is responsible for
+communicating a registration form through the PyGreece Discord Server two weeks before the
 elections.
 
 The election committee, selected by the previous board, has no right to participate in the
