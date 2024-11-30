@@ -162,7 +162,7 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
   Members should be notified at least 5 days prior to the date of the GA (via discord
   and/or email).
 
-- The board of directors is responsible to select an independent host & the format of the
+- The board of directors is responsible for selecting an independent host & the format of the
   GA with the agreement of the GA requester.
 
 - The board handles all day-to-day business of the PyGreece AMKE. It is allowed to enter
