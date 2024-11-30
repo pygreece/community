@@ -142,7 +142,7 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
 
 <!-- TODO: Provide a form for member registration -->
 
-- The formal decision making bodies of PyGreece community are:
+- The formal decision making bodies of the PyGreece community are:
 
   - The General Assembly.
   - The Board of Directors.
