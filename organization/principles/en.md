@@ -171,7 +171,7 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
 
 - The administrators of the board have the authority to sign for PyGreece AMKE.
 
-- A member may at any time terminate the membership by informing the board in writing.
+- A member may at any time terminate their membership by informing the board in writing.
 
 - A member that acts against the interests of PyGreece community or PyGreece AMKE may be
   expelled by the full majority decision of the board of directors. In case this member is
