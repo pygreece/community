@@ -138,7 +138,7 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
 - Membership is open and free to individuals who wish to actively engage in implementing
   the PyGreece community mission.
 
-- To become a member, the applicant must send an email to the board of the PyGreece AMKE.
+- To become a member, the applicant must send an email to the PyGreece AMKE board of directors.
 
 <!-- TODO: Provide a form for member registration -->
 
