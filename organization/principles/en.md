@@ -58,8 +58,9 @@ roles are:
   community outreach and the online community server. They are the main contact for
   community events that the PyGreece community attends and they are responsible for
   strategic decision making regarding the discord server.
-- _PyCon Greece_: Directors with this role are monitoring the progress of the PyCon Greece conference. They are
-  in contact with the board & the conference workgroups. In more details, they:
+- _PyCon Greece_: Directors with this role are monitoring the progress of the PyCon Greece
+  conference. They are in contact with the board & the conference workgroups. In more
+  details, they:
   - Communicate all important updates with the board.
   - Select the lead of each team.
   - Make sure that the timeline of the conference will be met.
@@ -92,8 +93,8 @@ long as this member is a confirmed PyGreece community member.
 
 A member can serve a specific role (e.g Administrator or Responsible for PyCon Greece) two
 times in a row maximum. A member can be elected as a board member for a maximum of six
-times. The limits are reset in case the member takes a one-term break from the role
-and/or the board membership.
+times. The limits are reset in case the member takes a one-term break from the role and/or
+the board membership.
 
 ### Board Elections
 
