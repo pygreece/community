@@ -175,11 +175,11 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
 - A member may at any time terminate their membership by informing the board in writing.
 
 - A member that acts against the interests of the PyGreece community or PyGreece AMKE may
-  be expelled by a full majority decision of the board of directors. In case this member
-  is a director, the director considered to be expelled is excluded from the vote and the
-  decision needs the full majority of the rest of the board to pass. A member may be
-  expelled from the General Assembly of the PyGreece community too, at an assembly meeting
-  by a regular vote with simple majority.
+  be expelled by a supermajority (full majority) decision of the board of directors. In
+  case this member is a director, the director considered to be expelled is excluded from
+  the vote and the decision needs the supermajority of the rest of the board to pass. A
+  member may be expelled from the General Assembly of the PyGreece community too, at an
+  assembly meeting by a regular vote with simple majority.
 
 - In the case of dissolution, the assets of PyGreece AMKE go to an NGO voted by the
   General Assembly of the PyGreece community.
