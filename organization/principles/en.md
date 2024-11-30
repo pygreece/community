@@ -54,9 +54,9 @@ roles are:
   opportunities or needs, initiate implementation, maintain, and take forward every PyGreece
   community project, while making sure that more and more contributors will come on board,
   and we create an impact.
-- _Community outreach_: This role is dedicated to the PyGreece community outreach and the
-  online community server. The director is the main contact for community events that
-  PyGreece community attends and is responsible for strategic decision making regarding
+- _Community outreach_: Directors with this role are responsible for the PyGreece community outreach and the
+  online community server. They are the main contact for community events that the
+  PyGreece community attends and they are responsible for strategic decision making regarding
   the discord server.
 - _PyCon Greece_: This is role is monitoring the progress of PyCon Greece Conference. Is
   in contact with the board & the conference workgroups. More detailed:
