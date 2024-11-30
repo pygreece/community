@@ -138,7 +138,8 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
 - Membership is open and free to individuals who wish to actively engage in implementing
   the PyGreece community mission.
 
-- To become a member, the applicant must send an email to the PyGreece AMKE board of directors.
+- To become a member, the applicant must send an email to the PyGreece AMKE board of
+  directors.
 
 <!-- TODO: Provide a form for member registration -->
 
@@ -149,8 +150,8 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
 
 - The General Assembly is the highest decision making body of PyGreece community. It meets
   in a regular annual meeting and in extra sessions when called by a PyGreece community
-  member. The General Assembly runs independently from PyGreece AMKE, apart from
-  selecting the next board.
+  member. The General Assembly runs independently from PyGreece AMKE, apart from selecting
+  the next board.
 
 - All decisions of the General Assembly are made by simple majority among the voting
   members. Members may vote by proxy or submit written votes in specific issues to the
@@ -162,8 +163,8 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
   Members should be notified at least 5 days prior to the date of the GA (via discord
   and/or email).
 
-- The board of directors is responsible for selecting an independent host & the format of the
-  GA with the agreement of the GA requester.
+- The board of directors is responsible for selecting an independent host & the format of
+  the GA with the agreement of the GA requester.
 
 - The board handles all day-to-day business of PyGreece AMKE. It is allowed to enter
   contracts for PyGreece AMKE and handle any issues of the PyGreece community that have
@@ -173,12 +174,12 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
 
 - A member may at any time terminate their membership by informing the board in writing.
 
-- A member that acts against the interests of the PyGreece community or PyGreece AMKE may be
-  expelled by a full majority decision of the board of directors. In case this member is
-  a director, the director considered to be expelled is excluded from the vote and the
+- A member that acts against the interests of the PyGreece community or PyGreece AMKE may
+  be expelled by a full majority decision of the board of directors. In case this member
+  is a director, the director considered to be expelled is excluded from the vote and the
   decision needs the full majority of the rest of the board to pass. A member may be
-  expelled from the General Assembly of the PyGreece community too, at an assembly meeting by
-  a regular vote with simple majority.
+  expelled from the General Assembly of the PyGreece community too, at an assembly meeting
+  by a regular vote with simple majority.
 
 - In case of dissolution, the assets of PyGreece AMKE go to an NGO voted by a General
   Assembly of PyGreece community meeting.
