@@ -107,7 +107,7 @@ elections. The committee:
 - Hosts the vote to confirm that the financial status of the organization is acceptable by
   the GA & to end the previous board term.
 - Decides on the voting process that outlines the format of the Directors elections.
-- Decides beforehand the process of resolving ties.
+- Decides the process of resolving ties beforehand.
 - Hosts the vote for the next board of directors.
 
 Post election, the newly elected board decides the roles as they are described in the
