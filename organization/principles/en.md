@@ -112,7 +112,7 @@ elections. The committee:
 - Hosts the vote for the next board of directors.
 
 After the election the newly elected board decides the roles as they are described in the
-board structure section.
+[Member Roles](#member-roles) section.
 
 ## PyGreece Community Principles
 
