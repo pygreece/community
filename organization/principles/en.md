@@ -16,7 +16,7 @@
 
 ## Summary
 
-The document is analyzing the structure of PyGreece AMKE, the legal entity of the
+This document is analyzing the structure of PyGreece AMKE, the legal entity of the
 community, and the PyGreece community principles. A nice schema, summarizing the PyGreece
 AMKE structure and the main activities done by the community is the following:
 
