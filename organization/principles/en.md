@@ -49,9 +49,9 @@ While the administrators are focused on running the legal entity of PyGreece AMK
 members have specific roles, serving all actions run by the PyGreece community. Those
 roles are:
 
-- _PyGreece community projects_: This role is dedicated to the Projects run by PyGreece
-  community. The director with this role is responsible to find, identify, raise an idea,
-  opportunity or need, initiate implementation, maintain, take forward every PyGreece
+- _PyGreece community projects_: Directors with this role are dedicated to the Projects run by the PyGreece
+  community. The director with this role is responsible to find, identify, raise ideas,
+  opportunities or needs, initiate implementation, maintain, and take forward every PyGreece
   community project, while making sure that more and more contributors will come on board,
   and we create an impact.
 - _Community outreach_: This role is dedicated to the PyGreece community outreach and the
