@@ -49,15 +49,15 @@ While the administrators are focused on running the legal entity of PyGreece AMK
 members have specific roles, serving all actions run by the PyGreece community. Those
 roles are:
 
-- _PyGreece community projects_: Directors with this role are dedicated to the Projects run by the PyGreece
-  community. The director with this role is responsible to find, identify, raise ideas,
-  opportunities or needs, initiate implementation, maintain, and take forward every PyGreece
-  community project, while making sure that more and more contributors will come on board,
-  and we create an impact.
-- _Community outreach_: Directors with this role are responsible for the PyGreece community outreach and the
-  online community server. They are the main contact for community events that the
-  PyGreece community attends and they are responsible for strategic decision making regarding
-  the discord server.
+- _PyGreece community projects_: Directors with this role are dedicated to the Projects
+  run by the PyGreece community. The director with this role is responsible to find,
+  identify, raise ideas, opportunities or needs, initiate implementation, maintain, and
+  take forward every PyGreece community project, while making sure that more and more
+  contributors will come on board, and we create an impact.
+- _Community outreach_: Directors with this role are responsible for the PyGreece
+  community outreach and the online community server. They are the main contact for
+  community events that the PyGreece community attends and they are responsible for
+  strategic decision making regarding the discord server.
 - _PyCon Greece_: This is role is monitoring the progress of PyCon Greece Conference. Is
   in contact with the board & the conference workgroups. More detailed:
   - Communicates with the board all important updates.
