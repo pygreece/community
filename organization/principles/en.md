@@ -165,7 +165,7 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
 - The board of directors is responsible for selecting an independent host & the format of the
   GA with the agreement of the GA requester.
 
-- The board handles all day-to-day business of the PyGreece AMKE. It is allowed to enter
+- The board handles all day-to-day business of PyGreece AMKE. It is allowed to enter
   contracts for PyGreece AMKE and handle any issues of the PyGreece community that have
   not been otherwise regulated in the bylaws or by the General Assembly.
 
