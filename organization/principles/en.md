@@ -27,10 +27,11 @@ AMKE structure and the main activities done by the community is the following:
 ### Board of Directors
 
 The board of directors is the main body of PyGreece AMKE. It's responsible for any
-strategic decision regarding the present & the future of the organization. Furthermore:
+strategic decision regarding the present & the future of the organization. Furthermore
+it is responsible for:
 
-- Decides the budget, venue & dates of PyCon Greece.
-- Decides the budget of all Python community projects led by PyGreece community members.
+- Deciding the budget, venue & dates of PyCon Greece.
+- Deciding the budget of all Python community projects led by PyGreece community members.
 
 ### Directors
 
