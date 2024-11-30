@@ -41,8 +41,7 @@ There are two types of directors inside the board:
   authority to act on legal basis on behalf of the organization. Each PyGreece AMKE board
   should have 3 administrators who can act alone or as a group.
 - _Members_: They cannot act on legal basis on behalf of the organization, although they
-  can represent the organization. They have voting rights. Each PyGreece AMKE board can
-  have 3 to 4 members.
+  can represent the organization. They have voting rights.
 
 ### Member Roles
 
