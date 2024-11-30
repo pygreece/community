@@ -149,7 +149,7 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
 
 - The General Assembly is the highest decision making body of PyGreece community. It meets
   in a regular annual meeting and in extra sessions when called by a PyGreece community
-  member. The General Assembly runs independent from the PyGreece AMKE, apart from
+  member. The General Assembly runs independently from PyGreece AMKE, apart from
   selecting the next board.
 
 - All decisions of the General Assembly are made by simple majority among the voting
