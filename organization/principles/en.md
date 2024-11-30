@@ -177,7 +177,7 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
   expelled by a full majority decision of the board of directors. In case this member is
   a director, the director considered to be expelled is excluded from the vote and the
   decision needs the full majority of the rest of the board to pass. A member may be
-  expelled from the General Assembly of PyGreece community too, at an Assembly meeting by
+  expelled from the General Assembly of the PyGreece community too, at an assembly meeting by
   a regular vote with simple majority.
 
 - In case of dissolution, the assets of PyGreece AMKE go to an NGO voted by a General
