@@ -46,7 +46,7 @@ There are two types of directors inside the board:
 ### Member Roles
 
 While the administrators are focused on running the legal entity of PyGreece AMKE, the
-members have specific roles, serving all actions running by the PyGreece community. Those
+members have specific roles, serving all actions run by the PyGreece community. Those
 roles are:
 
 - _PyGreece community projects_: This role is dedicated to the Projects run by PyGreece
