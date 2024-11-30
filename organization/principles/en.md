@@ -92,7 +92,7 @@ long as this member is a confirmed PyGreece community member.
 
 A member can serve a specific role (e.g Administrator or Responsible for PyCon Greece) two
 times in a row maximum. A member can be elected as a board member for a maximum of six
-times. The limits are reset in case the member takes a break for a term from the role
+times. The limits are reset in case the member takes a one-term break from the role
 and/or the board membership.
 
 ### Board Elections
