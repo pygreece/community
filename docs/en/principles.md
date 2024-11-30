@@ -1,19 +1,5 @@
 # Organization & Principles
 
-## Contents
-
-- [Summary](#summary)
-- [PyGreece AMKE](#pygreece-amke)
-  - [Board of Directors](#board-of-directors)
-  - [Directors](#directors)
-  - [Member Roles](#member-roles)
-  - [Current Board of PyGreece AMKE](#current-board-of-pygreece-amke)
-  - [Board Lifecycle](#board-lifecycle)
-  - [Inactivity of Directors](#inactivity-of-directors)
-  - [Re-Election Limit](#re-election-limit)
-  - [Board Elections](#board-elections)
-- [PyGreece Community Principles](#pygreece-community-principles)
-
 ## Summary
 
 This document is analyzing the structure of PyGreece AMKE, the legal entity of the
@@ -120,10 +106,13 @@ Below you can find the main principles of the PyGreece community, the Greek Pyth
 community managed by PyGreece AMKE. The bylaws of the PyGreece AMKE entity are different
 and can be found [here](https://publicity.businessportal.gr/company/180308907000).
 
-> [!IMPORTANT] The board of PyGreece AMKE is currently working on the legal format of the
-> community principles mentioned below. Therefore, while they are considered a very
-> important part of the way that PyGreece community operates, they don't have any legal
-> force yet.
+!!! info "IMPORTANT"
+
+    The board of PyGreece AMKE is currently working on the legal format of the
+    community principles mentioned below. Therefore, while they are considered a very
+    important part of the way that PyGreece community operates, they don't have any legal
+    force yet.
+
 
 - The name of the community is "PyGreece Community", abbreviated "PyGreece".
 
