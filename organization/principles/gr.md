@@ -143,7 +143,7 @@ Python που διαχειρίζεται η PyGreece ΑΜΚΕ. Το καταστ
   [στο έγγραφο με την αποστολή μας](../about/gr.md#%CE%B1%CF%80%CE%BF%CF%83%CF%84%CE%BF%CE%BB%CE%AE).
 
 - Τα στοιχεία της PyGreece ΑΜΚΕ είναι
-  [εδώ](../about/gr.md#%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1-%CE%BF%CF%81%CE%B3%CE%B1%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D)
+  [στο έγγραφο με την αποστολή μας](../about/gr.md#%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1-%CE%BF%CF%81%CE%B3%CE%B1%CE%BD%CE%B9%CF%83%CE%BC%CE%BF%CF%8D)
 
 - Η συμμετοχή είναι ανοιχτή και δωρεάν σε άτομα που επιθυμούν να συμμετέχουν ενεργά στην
   υλοποίηση της αποστολής της κοινότητας PyGreece.
