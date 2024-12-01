@@ -133,7 +133,7 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
   Python community members to serve the mission of the PyGreece community. The mission of
   PyGreece AMKE can be found [on our mission document](../about/en.md#mission).
 
-- The organization detals of PyGreece AMKE are [here](../about/en.md#organization-details)
+- The organization detals of PyGreece AMKE are [on our mission document](../about/en.md#organization-details)
 
 - Membership is open and free to individuals who wish to actively engage in implementing
   the PyGreece community mission.
