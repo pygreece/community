@@ -131,7 +131,7 @@ and can be found [here](https://publicity.businessportal.gr/company/180308907000
 
 - PyGreece AMKE is a civil society actor (Civil Non-Profit Company) created by Greek
   Python community members to serve the mission of the PyGreece community. The mission of
-  PyGreece AMKE can be found [here](../about/en.md#mission).
+  PyGreece AMKE can be found [on our mission document](../about/en.md#mission).
 
 - The organization detals of PyGreece AMKE are [here](../about/en.md#organization-details)
 
