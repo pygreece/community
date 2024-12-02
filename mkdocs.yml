@@ -6,6 +6,8 @@ theme:
   name: material
   features:
     - header.autohide
+  logo: assets/img/logo.svg
+  favicon: assets/img/logo.svg
   palette:
     # Palette toggle for dark mode
     - scheme: slate
