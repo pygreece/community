@@ -1,4 +1,4 @@
-# PyGreece Code of Conduct
+# Code of Conduct
 
 PyGreece is a community of developers that aims to network and collaborate with all Python
 developer communities in Greece.
@@ -13,21 +13,22 @@ abide by the following Code of Conduct.
 Some behaviors that describe a member of the PyGreece community are:
 
 - We are always open to partnerships. Community members should always be open to
-  collaboration with other members, new volunteers/developers.
+    collaboration with other members, new volunteers/developers.
 - We focus on what is best for the community.
 - We respect the processes set out in the community and work within them.
 - We recognize time and effort. We respect the volunteer efforts that govern the Python
-  community. We are thoughtful when referring to the efforts of others.
+    community. We are thoughtful when referring to the efforts of others.
 - We show empathy to other community members. We are careful in our communications,
-  whether in person or online, and are considerate when approaching differing viewpoints.
+    whether in person or online, and are considerate when approaching differing
+    viewpoints.
 - We respect others, their positions, their abilities, their commitments and their
-  efforts. We are receptive to constructive feedback and criticism, as the experiences and
-  skills of other members contribute to our overall efforts.
+    efforts. We are receptive to constructive feedback and criticism, as the experiences
+    and skills of other members contribute to our overall efforts.
 - We graciously accept constructive criticism. When we disagree, we are courteous in
-  presenting our issues.
+    presenting our issues.
 - We use welcoming and inclusive language. We welcome all who wish to participate in our
-  activities, fostering an environment where everyone can participate and everyone can
-  make a difference.
+    activities, fostering an environment where everyone can participate and everyone can
+    make a difference.
 
 ## Our values
 
@@ -43,20 +44,20 @@ differences, or socioeconomic status.
 - Intentional bullying, harassment or stalking.
 - Recording or taking screenshots of online activity for the purpose of harassment.
 - Posting personal information of others, such as physical or email address, without
-  express permission.
+    express permission.
 - Threats of violence or verbal abuse directed at another person.
 - Inciting violence or harassment towards any person, including encouraging a person to
-  commit suicide or self-harm.
+    commit suicide or self-harm.
 - Creating additional online accounts for the purpose of harassing another person.
 - Language and images in the online community on discord or in any venue, including
-  speech, that sexualizes, insults, demeans or attacks groups or specific individuals.
+    speech, that sexualizes, insults, demeans or attacks groups or specific individuals.
 - Insults, slurs or jokes based on stereotypes.
 - Unwelcome sexual attention or advances.
 - Persistent disruption of online community discord discussions, presentations or other
-  events.
+    events.
 - Continued personal communication after requests to discontinue such communication.
 - Other behavior that is inappropriate for a professional audience that includes
-  individuals from many different backgrounds.
+    individuals from many different backgrounds.
 
 Community members who are asked to stop any inappropriate behavior are expected to comply
 immediately.

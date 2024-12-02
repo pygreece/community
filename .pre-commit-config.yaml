@@ -2,12 +2,15 @@ repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v5.0.0
     hooks:
+      - id: check-yaml
+        args: ["--unsafe"]
       - id: end-of-file-fixer
       - id: trailing-whitespace
-      - id: check-yaml
+      - id: requirements-txt-fixer
   - repo: https://github.com/executablebooks/mdformat
     rev: 0.7.19
     hooks:
       - id: mdformat
         additional_dependencies:
-          - mdformat-gfm
+          - mdformat-mkdocs
+          - mdformat-frontmatter
