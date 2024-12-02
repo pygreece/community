@@ -1,6 +1,6 @@
 # PyGreece Community Knowledge Base
 
-Connecting Python enthusiasts worldwide – fostering collaboration, inclusivity, and
+Connecting Python enthusiasts in Greece – fostering collaboration, inclusivity, and
 community growth.
 
 ## Background

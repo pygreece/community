@@ -20,7 +20,7 @@ theme:
         name: Switch to dark mode
 
 nav:
-  - PyGreece Community Knowledge Base: index.md
+  - Βάση γνώσεων κοινότητας PyGreece: index.md
   - Σχετικά με το PyGreece: about.md
   - Κώδικας Δεοντολογίας: code-of-conduct.md
   - Οργανωτική Δομή & Αρχές: principles.md
@@ -33,7 +33,7 @@ plugins:
           name: English
           build: true
           nav_translations:
-            PyGreece Community Knowledge Base: PyGreece Community Knowledge Base
+            Βάση γνώσεων κοινότητας PyGreece: PyGreece Community Knowledge Base
             Σχετικά με το PyGreece: About PyGreece
             Κώδικας Δεοντολογίας: Code of Conduct
             Οργανωτική Δομή & Αρχές: Organization & Principles
