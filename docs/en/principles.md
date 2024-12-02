@@ -24,10 +24,10 @@ is responsible for:
 There are two types of directors inside the board:
 
 - _Administrators_: They are the managing members of the legal entity and have the
-  authority to act on legal basis on behalf of the organization. Each PyGreece AMKE board
-  should have 3 administrators who can act alone or as a group.
+    authority to act on legal basis on behalf of the organization. Each PyGreece AMKE
+    board should have 3 administrators who can act alone or as a group.
 - _Members_: They cannot act on legal basis on behalf of the organization, although they
-  can represent the organization. They have voting rights.
+    can represent the organization. They have voting rights.
 
 ### Member Roles
 
@@ -36,20 +36,20 @@ members have specific roles, serving all actions run by the PyGreece community. 
 roles are:
 
 - _PyGreece community projects_: Directors with this role are dedicated to the Projects
-  run by the PyGreece community. The director with this role is responsible to find,
-  identify, raise ideas, opportunities or needs, initiate implementation, maintain, and
-  take forward every PyGreece community project, while making sure that more and more
-  contributors will come on board, and we create an impact.
+    run by the PyGreece community. The director with this role is responsible to find,
+    identify, raise ideas, opportunities or needs, initiate implementation, maintain, and
+    take forward every PyGreece community project, while making sure that more and more
+    contributors will come on board, and we create an impact.
 - _Community outreach_: Directors with this role are responsible for the PyGreece
-  community outreach and the online community server. They are the main contact for
-  community events that the PyGreece community attends and they are responsible for
-  strategic decision making regarding the discord server.
+    community outreach and the online community server. They are the main contact for
+    community events that the PyGreece community attends and they are responsible for
+    strategic decision making regarding the discord server.
 - _PyCon Greece_: Directors with this role are monitoring the progress of the PyCon Greece
-  conference. They are in contact with the board & the conference workgroups. In more
-  details, they:
-  - Communicate all important updates with the board.
-  - Select the lead of each team.
-  - Make sure that the timeline of the conference will be met.
+    conference. They are in contact with the board & the conference workgroups. In more
+    details, they:
+    - Communicate all important updates with the board.
+    - Select the lead of each team.
+    - Make sure that the timeline of the conference will be met.
 
 ### Current Board of PyGreece AMKE
 
@@ -92,7 +92,7 @@ The election committee, selected by the previous board, has no right to particip
 elections. The committee:
 
 - Hosts the vote to confirm that the financial status of the organization is acceptable by
-  the GA & to end the previous board term.
+    the GA & to end the previous board term.
 - Decides on the voting process that outlines the format of the Directors elections.
 - Decides the process of resolving ties beforehand.
 - Hosts the vote for the next board of directors.
@@ -107,69 +107,66 @@ community managed by PyGreece AMKE. The bylaws of the PyGreece AMKE entity are d
 and can be found [here](https://publicity.businessportal.gr/company/180308907000).
 
 !!! info "IMPORTANT"
-
-    The board of PyGreece AMKE is currently working on the legal format of the
-    community principles mentioned below. Therefore, while they are considered a very
-    important part of the way that PyGreece community operates, they don't have any legal
-    force yet.
-
+    The board of PyGreece AMKE is currently working on the legal format of the community
+    principles mentioned below. Therefore, while they are considered a very important part of
+    the way that PyGreece community operates, they don't have any legal force yet.
 
 - The name of the community is "PyGreece Community", abbreviated "PyGreece".
 
 - The name of the legal entity responsible for "PyGreece Community" is "PyGreece AMKE".
 
 - PyGreece AMKE is a civil society actor (Civil Non-Profit Company) created by Greek
-  Python community members to serve the mission of the PyGreece community. The mission of
-  PyGreece AMKE can be found [on our mission document](about.md#mission).
+    Python community members to serve the mission of the PyGreece community. The mission
+    of PyGreece AMKE can be found [on our mission document](about.md#mission).
 
 - The organization detals of PyGreece AMKE are
-  [on our mission document](about.md#organization-details).
+    [on our mission document](about.md#organization-details).
 
 - Membership is open and free to individuals who wish to actively engage in implementing
-  the PyGreece community mission.
+    the PyGreece community mission.
 
 - To become a member, the applicant must send an email to the PyGreece AMKE board of
-  directors.
+    directors.
 
 <!-- TODO: Provide a form for member registration -->
 
 - The formal decision making bodies of the PyGreece community are:
 
-  - The General Assembly.
-  - The Board of Directors.
+    - The General Assembly.
+    - The Board of Directors.
 
 - The General Assembly is the highest decision making body of PyGreece community. It meets
-  in a regular annual meeting and in extra sessions when called by a PyGreece community
-  member. The General Assembly runs independently from PyGreece AMKE, apart from selecting
-  the next board.
+    in a regular annual meeting and in extra sessions when called by a PyGreece community
+    member. The General Assembly runs independently from PyGreece AMKE, apart from
+    selecting the next board.
 
 - All decisions of the General Assembly are made by simple majority among the voting
-  members. Members may vote by proxy or submit written votes in specific issues to the
-  board. All written votes must be declared by the administrators of PyGreece AMKE at the
-  beginning of the meeting. If there is a draw between two proposals a second vote shall
-  be made and so on.
+    members. Members may vote by proxy or submit written votes in specific issues to the
+    board. All written votes must be declared by the administrators of PyGreece AMKE at
+    the beginning of the meeting. If there is a draw between two proposals a second vote
+    shall be made and so on.
 
 - An extra meeting of the General Assembly must be held within 28 days of the request.
-  Members should be notified at least 5 days prior to the date of the GA (via discord
-  and/or email).
+    Members should be notified at least 5 days prior to the date of the GA (via discord
+    and/or email).
 
 - The board of directors is responsible for selecting an independent host & the format of
-  the GA with the agreement of the GA requester.
+    the GA with the agreement of the GA requester.
 
 - The board handles all day-to-day business of PyGreece AMKE. It is allowed to enter
-  contracts for PyGreece AMKE and handle any issues of the PyGreece community that have
-  not been otherwise regulated in the bylaws or by the General Assembly.
+    contracts for PyGreece AMKE and handle any issues of the PyGreece community that have
+    not been otherwise regulated in the bylaws or by the General Assembly.
 
 - The administrators of the board have the authority to sign for PyGreece AMKE.
 
 - A member may at any time terminate their membership by informing the board in writing.
 
 - A member that acts against the interests of the PyGreece community or PyGreece AMKE may
-  be expelled by a supermajority (full majority) decision of the board of directors. In
-  case this member is a director, the director considered to be expelled is excluded from
-  the vote and the decision needs the supermajority of the rest of the board to pass. A
-  member may be expelled from the General Assembly of the PyGreece community too, at an
-  assembly meeting by a regular vote with simple majority.
+    be expelled by a supermajority (full majority) decision of the board of directors. In
+    case this member is a director, the director considered to be expelled is excluded
+    from the vote and the decision needs the supermajority of the rest of the board to
+    pass. A member may be expelled from the General Assembly of the PyGreece community
+    too, at an assembly meeting by a regular vote with simple majority.
 
 - In the case of dissolution, the assets of PyGreece AMKE go to an NGO voted by the
-  General Assembly of the PyGreece community.
+    General Assembly of the PyGreece community.

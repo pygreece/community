@@ -5,8 +5,8 @@ community growth.
 
 ## Background
 
-Welcome to the website of the PyGreece community. It stands as the knowledge base
-of the PyGreece Community. More detailed, it's an attempt to share with the world all the
+Welcome to the website of the PyGreece community. It stands as the knowledge base of the
+PyGreece Community. More detailed, it's an attempt to share with the world all the
 recourses and the processes we follow.
 
 ## Sharing Knowledge
@@ -23,7 +23,8 @@ can find more information about the project
 ## Join the PyGreece Discord Server
 
 The PyGreece discord server aims to connect all the members of the greek python community
-in one place. You can join the server by following [this link](https://discord.gg/gWcXmDw8Yj).
+in one place. You can join the server by following
+[this link](https://discord.gg/gWcXmDw8Yj).
 
 ## PyGreece Code of Conduct
 
