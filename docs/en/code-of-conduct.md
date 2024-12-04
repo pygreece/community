@@ -21,7 +21,8 @@ Some behaviors that describe a member of the PyGreece community are:
 - We show empathy to other community members. We are careful in our communications,
     whether in person or online, and are considerate when approaching differing
     viewpoints.
-- We encourage members to share their pronouns if they wish, in order to promote respect for all forms of gender identity and expression.
+- We encourage members to share their pronouns if they wish, in order to promote respect
+    for all forms of gender identity and expression.
 - We respect others, their positions, their abilities, their commitments and their
     efforts. We are receptive to constructive feedback and criticism, as the experiences
     and skills of other members contribute to our overall efforts.
@@ -39,9 +40,12 @@ gender identity and expression, sexual orientation, disability, physical appeara
 size, ethnicity, race, religion (or lack thereof), education, cultural and cognitive
 differences, or socioeconomic status.
 
-We recognize and value diversity not only in identity but also in the experiences and perspectives each individual brings to the community. 
+We recognize and value diversity not only in identity but also in the experiences and
+perspectives each individual brings to the community.
 
-Our goal is to provide accessible events and discussions so that members with disabilities can participate without barriers. If there are any needs for additional support, please inform us, and we will do our best to accommodate.
+Our goal is to provide accessible events and discussions so that members with disabilities
+can participate without barriers. If there are any needs for additional support, please
+inform us, and we will do our best to accommodate.
 
 ## Examples of inappropriate behavior
 
@@ -75,11 +79,14 @@ organizing team may take such action as it deems appropriate, including warning 
 offender or banning the offender (for life or for a specified period of time) from the
 community and community events.
 
-Participants who are banned may contact the organizing team at [coc@pygreece.org](mailto:coc@pygreece.org) to appeal the decision within 15 days.
+Participants who are banned may contact the organizing team at
+[coc@pygreece.org](mailto:coc@pygreece.org) to appeal the decision within 15 days.
 
 ## Reporting Behavior
 
-If you have any concerns or need to report inappropriate behavior, you can contact the organizing team at [coc@pygreece.org](mailto:coc@pygreece.org). All reports will be handled with confidentiality and with priority to ensuring the well-being of our members.
+If you have any concerns or need to report inappropriate behavior, you can contact the
+organizing team at [coc@pygreece.org](mailto:coc@pygreece.org). All reports will be
+handled with confidentiality and with priority to ensuring the well-being of our members.
 
 **Thank you for helping to make PyGreece a welcoming and friendly community for
 everyone.**
