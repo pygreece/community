@@ -13,7 +13,8 @@ abide by the following Code of Conduct.
 Some behaviors that describe a member of the PyGreece community are:
 
 - We are always open to partnerships. Community members should always be open to
-    collaboration with other members, new volunteers/developers.
+    collaboration with other members, or people interested in contributing to the
+    community.
 - We focus on what is best for the community.
 - We respect the processes set out in the community and work within them.
 - We recognize time and effort. We respect the volunteer efforts that govern the Python
