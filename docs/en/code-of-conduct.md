@@ -80,7 +80,8 @@ offender or banning the offender (for life or for a specified period of time) fr
 community and community events.
 
 Participants who are banned may contact the organizing team at
-[organizers@pygreece.org](mailto:organizers@pygreece.org) to appeal the decision within 15 days.
+[organizers@pygreece.org](mailto:organizers@pygreece.org) to appeal the decision within 15
+days.
 
 ## Reporting Behavior
 
@@ -89,6 +90,7 @@ responsible team at [coc@pygreece.org](mailto:coc@pygreece.org). All reports wil
 handled with confidentiality and with priority to ensuring the well-being of our members.
 
 The members of the team are:
+
 - Lysandros Nikolaou, and
 - Vasiliki Dalakiari
 
