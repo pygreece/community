@@ -46,7 +46,7 @@ perspectives each individual brings to the community.
 
 Our goal is to provide accessible events and discussions so that members with disabilities
 can participate without barriers. If there are any needs for additional support, please
-inform us, and we will do our best to accommodate.
+inform us at [organizers@pygreece.org](mailto:organizers@pygreece.org), and we will do our best to accommodate.
 
 ## Examples of inappropriate behavior
 
