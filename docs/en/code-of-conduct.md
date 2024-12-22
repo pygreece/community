@@ -13,7 +13,8 @@ abide by the following Code of Conduct.
 Some behaviors that describe a member of the PyGreece community are:
 
 - We are always open to partnerships. Community members should always be open to
-    collaboration with other members, new volunteers/developers.
+    collaboration with other members, or people interested in contributing to the
+    community.
 - We focus on what is best for the community.
 - We respect the processes set out in the community and work within them.
 - We recognize time and effort. We respect the volunteer efforts that govern the Python
@@ -21,6 +22,8 @@ Some behaviors that describe a member of the PyGreece community are:
 - We show empathy to other community members. We are careful in our communications,
     whether in person or online, and are considerate when approaching differing
     viewpoints.
+- We encourage members to share their pronouns if they wish, in order to promote respect
+    for all forms of gender identity and expression.
 - We respect others, their positions, their abilities, their commitments and their
     efforts. We are receptive to constructive feedback and criticism, as the experiences
     and skills of other members contribute to our overall efforts.
@@ -37,6 +40,14 @@ community is dedicated to providing a positive experience for everyone, regardle
 gender identity and expression, sexual orientation, disability, physical appearance, body
 size, ethnicity, race, religion (or lack thereof), education, cultural and cognitive
 differences, or socioeconomic status.
+
+We recognize and value diversity not only in identity but also in the experiences and
+perspectives each individual brings to the community.
+
+Our goal is to provide accessible events and discussions so that members with disabilities
+can participate without barriers. If there are any needs for additional support, please
+inform us at [organizers@pygreece.org](mailto:organizers@pygreece.org), and we will do our
+best to accommodate.
 
 ## Examples of inappropriate behavior
 
@@ -56,6 +67,7 @@ differences, or socioeconomic status.
 - Persistent disruption of online community discord discussions, presentations or other
     events.
 - Continued personal communication after requests to discontinue such communication.
+- Online or physical bullying of any form.
 - Other behavior that is inappropriate for a professional audience that includes
     individuals from many different backgrounds.
 
@@ -68,6 +80,21 @@ If a participant engages in behavior that violates this Code of Conduct, the PyG
 organizing team may take such action as it deems appropriate, including warning the
 offender or banning the offender (for life or for a specified period of time) from the
 community and community events.
+
+Participants who are banned may contact the organizing team at
+[organizers@pygreece.org](mailto:organizers@pygreece.org) to appeal the decision within 15
+days.
+
+## Reporting Behavior
+
+If you have any concerns or need to report inappropriate behavior, you can contact the
+responsible team at [coc@pygreece.org](mailto:coc@pygreece.org). All reports will be
+handled with confidentiality and with priority to ensuring the well-being of our members.
+
+The members of the team are:
+
+- Lysandros Nikolaou, and
+- Vasiliki Dalakiari
 
 **Thank you for helping to make PyGreece a welcoming and friendly community for
 everyone.**
