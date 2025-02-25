@@ -16,5 +16,5 @@
 - **Επωνυμία**: PyGreece A.M.K.E.
 - **Διεύθυνση**: Πλ. Ιπποδάμειας 8, Πειραιάς, Ελλάδα
 - **ΤΚ**: 18531
-- **Email**: pygreece@gmail.com
+- **Email**: amke-admins@pygreece.org
 - **ΑΦΜ**: 802654251
