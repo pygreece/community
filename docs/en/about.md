@@ -16,5 +16,5 @@ only by volunteers. The organization details are:
 - **Name**: PyGreece A.M.K.E.
 - **Address**: Pl. Ippodameias 8, Piraeus, Greece
 - **Postal Code**: 18531
-- **Email**: pygreece@gmail.com
+- **Email**: amke-admins@pygreece.org
 - **VAT ID**: EL802654251
