@@ -1,6 +1,6 @@
 site_name: PyGreece
 repo_url: https://github.com/pygreece/community
-copyright: Copyright &copy; 2024 - PyGreece
+copyright: Copyright &copy; *year* - PyGreece
 
 theme:
   name: material
@@ -47,6 +47,8 @@ plugins:
       enable_creation_date: true
   - search
 
+hooks:
+  - .github/workflows/hooks.py
 
 markdown_extensions:
   - admonition

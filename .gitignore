@@ -9,3 +9,6 @@ venv.bak/
 
 # mkdocs documentation
 /site
+
+# temp files
+__pycache__
