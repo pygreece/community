@@ -1,6 +1,6 @@
 site_name: PyGreece
 repo_url: https://github.com/pygreece/community
-# copyright: Copyright &copy; 2024 - <current_year> PyGreece 
+# copyright: Copyright &copy; 2024 - <current_year> PyGreece
 # copyright is set through docs/assets/hooks/footer_hooks.py
 
 theme:
