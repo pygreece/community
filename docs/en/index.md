@@ -5,14 +5,14 @@ community growth.
 
 ## Background
 
-Welcome to the website of the PyGreece community. It stands as the knowledge base of the
-PyGreece Community. More detailed, it's an attempt to share with the world all the
-recourses and the processes we follow.
+Welcome to the PyGreece Community Knowledge Base. We're dedicated to openly sharing all
+the resources and processes we use to foster collaboration and community growth.
 
 ## Sharing Knowledge
 
-As mentioned above, we aim to share all resources we have inside this repository. We'll
-share detailed instructions on how someone can contribute to the repo soon :)
+Our goal is to openly share all of our community's resources. We'll soon provide detailed
+instructions on how you can contribute to this repository and help us grow our knowledge
+base :)
 
 ## Greek Translation of the Python Documentation
 
