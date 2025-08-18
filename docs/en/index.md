@@ -11,7 +11,8 @@ the resources and processes we use to foster collaboration and community growth.
 ## Sharing Knowledge
 
 Our goal is to openly share all of our community's resources. We'll soon provide detailed
-instructions on how you can contribute to this repository and help us grow our knowledge base :)
+instructions on how you can contribute to this repository and help us grow our knowledge
+base :)
 
 ## Greek Translation of the Python Documentation
 
