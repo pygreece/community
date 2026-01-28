@@ -24,7 +24,7 @@ can find more information about the project
 
 The PyGreece discord server aims to connect all the members of the greek python community
 in one place. You can join the server by following
-[this link](https://discord.gg/gWcXmDw8Yj).
+[this link](https://discord.gg/F8G2YZ39ab).
 
 ## PyGreece Code of Conduct
 
